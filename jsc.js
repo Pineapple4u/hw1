@@ -7,7 +7,7 @@ var c= true;
 // null
 var d= null;
 // undefined
-var e = ;
+var e;
 
 console.log(typeof a)
 console.log(typeof b)
